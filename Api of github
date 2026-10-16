@@ -1,2 +1,9 @@
 Github api - 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 
 You know on this dataset - - - https://www.kaggle.com/datasets/okxata1/okieeeeee 
+
+Kaggle api - KGAT_2196c404487aa6d5db17e7e1ae14e79b 
+
+export KAGGLE_API_TOKEN=KGAT_2196c404487aa6d5db17e7e1ae14e79b
+
+
+kaggle competitions list
